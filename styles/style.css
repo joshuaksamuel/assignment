@@ -1,0 +1,20 @@
+body{
+    background-color: burlywood;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#mainContent {
+    color:aqua;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    width: 80%;
+
+}
+img{
+    border-radius: 10%;
+    width: 50%;
+    height: 50%;
+}
